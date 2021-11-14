@@ -296,6 +296,9 @@
     .committee_upper {
        width: 70%;
     }
+    .committee_upper {
+        padding: 30px 10px;
+    }
    
 }
 @media(max-width:320px){
