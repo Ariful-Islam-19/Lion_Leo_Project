@@ -225,12 +225,12 @@
 }
 @media(max-width:375px){
     .president_row {
-        width: 70%;
+        width: 75%;
     }
 }
 @media(max-width:320px){
     .president_row {
-        width: 70%;
+        width: 75%;
     }
 }
 
@@ -294,7 +294,7 @@
 }
 @media(max-width:375px){
     .committee_upper {
-       width: 70%;
+       width: 80%;
     }
     .committee_upper {
         padding: 30px 10px;
