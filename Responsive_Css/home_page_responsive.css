@@ -625,6 +625,9 @@
     .news_col {
         padding: 35px 0px;
     }
+    .news_col {
+      width: 80%;
+    }
 }
 
 
