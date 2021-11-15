@@ -629,6 +629,7 @@ body,p,span,a{
     color: black;
     font-weight: 500;
     letter-spacing: 2px;
+    font-family: 'Constantia', Times, serif;
 }
 .userform_fname input{
     width: 324px;
@@ -641,6 +642,7 @@ body,p,span,a{
     color: black;
     font-weight: 500;
     letter-spacing: 2px;
+    font-family: 'Constantia', Times, serif;
 }
 .userform_lname input{
     width: 324px;
@@ -662,12 +664,14 @@ body,p,span,a{
     color: black;
     font-weight: 500;
     letter-spacing: 2px;
+    font-family: 'Constantia', Times, serif;
 }
 .userform_msg{}
 .userform_msg label{
     color: black;
     font-weight: 500;
     letter-spacing: 2px;
+    font-family: 'Constantia', Times, serif;
 }
 .userform_msg span{
     color: red;
